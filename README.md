@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://github.com/LuriSerdan/DevLinks/assets/128061250/e8cc1223-49c5-4a0f-9aa2-5f782d59e9a6" width="100%">
+  <img alt="projeto moveis customizados" src="https://i.imgur.com/jxMDSEI.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -24,21 +24,18 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Foi feito uma Land page com o tema "móveis customizados" para desktop, com o intuito de estudar fundamentos do HTML e CSS.
 
-- [Acesse o projeto finalizado, online](https://luriserdan.github.io/DevLinks/)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Moveis-customizados-Landing-page/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/AjwUoOzBBakmoU8jIgDtYi/Explorer---Projeto-01-(Copy)?type=design&mode=design). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
